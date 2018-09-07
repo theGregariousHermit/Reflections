@@ -1,0 +1,4 @@
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches allow for experimentation without risk to main branches that can be added in later
+How do the diagrams help you visualize the branch structure?
+	they show how branches are organized
